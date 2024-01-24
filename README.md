@@ -1,1 +1,1 @@
-
+This is a modification of a Bingo Minecraft server plugin for Spigot to serve as a custom Minecraft Hunger Games plugin. This is custom made for a specific Rutgers Esports co-hosted by the Women's Gaming League (WGL) in May of 2022. 
